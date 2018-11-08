@@ -68,6 +68,8 @@ You must be an [Office 365 global admin](about-admin-roles.md) to do these steps
   - What their new username is. They'll need it to sign in to Office 365.
     
   - If they are using Skype for Business Online, tell them they will need to reschedule any Skype for Business Online meetings that they organized, and that they will need to tell their external contacts to update the old contact information.
+  
+  - If they are using OneDrive, tell them that the URL of their OneDrive will change. Other applications such as OneNote may need to updated to use the changed OneDrive URL.
     
   - If their password changed too, tell them that they will be prompted to enter the new password on their mobile device, or it won't sync.
     
